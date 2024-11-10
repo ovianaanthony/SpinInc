@@ -11,4 +11,4 @@
   ![SistemaDoSite](https://github.com/user-attachments/assets/4f0b22ac-64f5-479e-bd90-c1898fb7e327)
 
 > [!TIP]
-> Confira também o script SQL, que está no documento 
+> Confira também o script SQL, que está no documento: **spin.sql**
