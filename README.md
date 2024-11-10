@@ -1,4 +1,4 @@
-# Landing page de um projeto chamado Spin desenvolvido no hackathon USP.
+# Landing page do projeto Spin, desenvolvido no hackathon USP.
 
 > [!NOTE]
 > Esta é uma aplicação em React JS e Tailwind CSS, e abaixo segue o planejamento de uma futura ligação do modelo com banco de dados em SQL.
