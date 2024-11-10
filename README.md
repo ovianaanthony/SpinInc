@@ -1,11 +1,8 @@
-Enjoy the Free code + Assets 😍
+Landing page de um projeto chamado Spin desenvolvido no hackathon USP.
 
-  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+*Esta é uma aplicação em React JS e Tailwind CSS, e abaixo segue o planejamento de uma futura ligação do modelo com banco de dados em SQL.
 
+  ![tables](https://github.com/user-attachments/assets/ce2a73a1-39e2-42c2-a915-906294eb955d)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
   ![SistemaDoSite](https://github.com/user-attachments/assets/4f0b22ac-64f5-479e-bd90-c1898fb7e327)
