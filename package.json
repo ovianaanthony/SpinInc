@@ -1,4 +1,5 @@
 {
+  "homepage" : "https://github.com/ovianaanthony/SpinInc.git",
   "name": "11_ecommerce_web",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy" : "gh-pages -d dist"
   },
   "dependencies": {
     "aos": "^2.3.4",
